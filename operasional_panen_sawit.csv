@@ -1,0 +1,13 @@
+id_transaksi,tanggal,id_blok,nama_wilayah,luas_blok_ha,jumlah_pemanen,tbs_kg,jjg_panen,bjr_kg,oer_persen,ffa_persen,status_pengiriman
+TRX-20260901-01,2026-09-01,BLK-A01,Wilayah Kebun Utara,15.5,12,18500,1233,15.00,21.5,2.1,Terkirim
+TRX-20260901-02,2026-09-01,BLK-A02,Wilayah Kebun Utara,20.0,15,25200,1575,16.00,22.1,2.3,Terkirim
+TRX-20260901-03,2026-09-01,BLK-B01,Wilayah Kebun Selatan,18.0,10,14400,1200,12.00,19.8,4.2,Tertunda
+TRX-20260902-01,2026-09-02,BLK-A01,Wilayah Kebun Utara,15.5,11,17800,1186,15.01,21.8,2.0,Terkirim
+TRX-20260902-02,2026-09-02,BLK-B02,Wilayah Kebun Selatan,22.5,18,31500,1750,18.00,23.0,2.5,Terkirim
+TRX-20260902-03,2026-09-02,BLK-C01,Wilayah Kebun Barat,12.0,8,9600,800,12.00,18.5,5.1,Tertunda
+TRX-20260903-01,2026-09-03,BLK-A02,Wilayah Kebun Utara,20.0,16,26000,1625,16.00,22.4,2.2,Terkirim
+TRX-20260903-02,2026-09-03,BLK-B01,Wilayah Kebun Selatan,18.0,14,21000,1500,14.00,20.5,3.8,Terkirim
+TRX-20260903-03,2026-09-03,BLK-C02,Wilayah Kebun Barat,25.0,20,35000,2000,17.50,22.8,2.4,Terkirim
+TRX-20260904-01,2026-09-04,BLK-A01,Wilayah Kebun Utara,15.5,12,18900,1260,15.00,21.6,2.1,Terkirim
+TRX-20260904-02,2026-09-04,BLK-C01,Wilayah Kebun Barat,12.0,9,11500,920,12.50,19.0,4.8,Terkirim
+TRX-20260904-03,2026-09-04,BLK-B02,Wilayah Kebun Selatan,22.5,17,29800,1655,18.01,22.9,2.6,Terkirim
